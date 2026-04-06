@@ -3,6 +3,7 @@ package com.aditiyaa.campus_recruitment.model;
 import jakarta.persistence.*;
 import lombok.Data;
 
+
 @Entity
 @Table(name = "students")
 @Data
